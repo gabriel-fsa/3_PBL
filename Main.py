@@ -3,6 +3,7 @@ import datetime
 import hashlib
 import pickle
 import getpass
+import pandas
 
 
 def cls():
